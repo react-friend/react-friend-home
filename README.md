@@ -2,6 +2,8 @@
 
 This is a page for hosting React Friend.
 
+For sampling completed npm packages that are part of react-friend.
+
 ## Available Scripts
 
 In the project directory, you can run:
